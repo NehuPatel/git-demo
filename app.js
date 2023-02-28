@@ -1,7 +1,3 @@
 <h1>
-
-    "VERSION ONE modification"
-
-  Version3
-
+    "VERSION Three moidification"
 </h1>
